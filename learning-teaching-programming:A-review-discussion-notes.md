@@ -35,3 +35,11 @@ Rist denota que un proceso realista de diseño envuelve la interacción  entre l
 habla de working memory “parsing-ginsarp” de Green, Bellamy & Parker (1987)
 
 ### Procedural vs Object Oriented
+Detienne (1997) dice que a pesar que se piensa en naturalidad y faciliddad de mapeo entre entidades de un dominio de problema, los estudios demuestran lo contrario.
+Los novices tienen que desarrollar un modelos procedimental antes de diseñar correctamente clases y objetos.
+Rist(1996) OOP no es diferente pero es MAS.
+Wiedenbeck(1999) tiene resultados de un experimentos de un grupo que se le enseño a programar en OOP y otro en procedimiental.
+Para problemas cortos, los de OOP tuvieron mejores resultados. Pero para problemas largos y más complejos, los de procedimiental
+tuvieron mejores resultados. Esto debido a que los flujos en OOP son mas distribuidos y eso hace más dificil que un novice haga
+un modelo mental. Esto en parte a que OOP tiene una mayor curva de aprendizaje  y porque los programas OOP son más largos.
+* Burkhardt, Detienne y Wiedenbeck (1997) * proponen una teoria de OOP comprenhension dentro del cual mucho de los factores pueden ser analizados.
