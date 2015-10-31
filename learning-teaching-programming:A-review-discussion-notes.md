@@ -42,4 +42,4 @@ Wiedenbeck(1999) tiene resultados de un experimentos de un grupo que se le ense�
 Para problemas cortos, los de OOP tuvieron mejores resultados. Pero para problemas largos y más complejos, los de procedimiental
 tuvieron mejores resultados. Esto debido a que los flujos en OOP son mas distribuidos y eso hace más dificil que un novice haga
 un modelo mental. Esto en parte a que OOP tiene una mayor curva de aprendizaje  y porque los programas OOP son más largos.
-*Burkhardt, Detienne y Wiedenbeck (1997)* proponen una teoria de OOP comprenhension dentro del cual mucho de los factores pueden ser analizados.
+_Burkhardt, Detienne y Wiedenbeck (1997)_ proponen una teoria de OOP comprenhension dentro del cual mucho de los factores pueden ser analizados.
