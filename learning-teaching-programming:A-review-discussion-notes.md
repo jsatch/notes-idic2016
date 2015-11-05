@@ -43,3 +43,39 @@ Para problemas cortos, los de OOP tuvieron mejores resultados. Pero para problem
 tuvieron mejores resultados. Esto debido a que los flujos en OOP son mas distribuidos y eso hace más dificil que un novice haga
 un modelo mental. Esto en parte a que OOP tiene una mayor curva de aprendizaje  y porque los programas OOP son más largos.
 _Burkhardt, Detienne y Wiedenbeck (1997)_ proponen una teoria de OOP comprenhension dentro del cual mucho de los factores pueden ser analizados.
+
+## Programadores novices
+
+knowledge representation,
+Sicologia cognitiva para programacion (Anderson 2000)
+Otros trabajos que investigan a los programadores novices
+* Soloway y Spohrer (1989)
+
+### La tarea de programación
+
+Dificultades que un programador experimenta
+
+* orientacion general, para que sirven los programas y que podemos hacer con ellos
+* the notional machin, modelo de una computadora como algo que ejecuta programas
+* sintaxis
+* estructura (estructuras de control)
+* pragmatics (planning, developing, testing, debuging)
+
+Green (1990 p117) sugiera que la programción es un proceso oportunista e incremental. Este enfoque
+cae bien cuando se habla de programadores novices.
+
+### Mental models and processes
+
+Es necesario un compresion total del dominio del problema para comenzar a programar.
+Es importantante enseñar en el primer año cursos orientados a la resolución de problemas.
+
+Otro modelo mental importante es el de notional machine (introducido por duBolay), que es una representación de
+la computadora definido por el lenguaje de programación que se utiliza.
+Según duBolay(1989) uno de los primeros problemas que se enfrenta es presentar al
+programador novice este modelo
+
+Otra necesidad de un programador es tener una habilidad de tracking de programas. En el proceso de armar
+este modelo mental se tendrá que conocer las características del programa así como
+funciona la máquina.
+
+### Capacidades de un novato y su comportamiento
